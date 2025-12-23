@@ -1,3 +1,0 @@
-/home/nameless/supraj/mujoco_impl/build/CMakeFiles/prac.dir
-/home/nameless/supraj/mujoco_impl/build/CMakeFiles/edit_cache.dir
-/home/nameless/supraj/mujoco_impl/build/CMakeFiles/rebuild_cache.dir

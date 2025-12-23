@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/prac.dir/prac.c.o -o prac   -L/home/nameless/supraj/mujoco_impl/mujoco/lib  -Wl,-rpath,/home/nameless/supraj/mujoco_impl/mujoco/lib -lmujoco 
