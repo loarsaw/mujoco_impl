@@ -1,0 +1,3 @@
+/home/suprajs/cpp_mujoco/build/CMakeFiles/prac.dir
+/home/suprajs/cpp_mujoco/build/CMakeFiles/edit_cache.dir
+/home/suprajs/cpp_mujoco/build/CMakeFiles/rebuild_cache.dir

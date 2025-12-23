@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/prac.dir/prac.c.o -o prac 
